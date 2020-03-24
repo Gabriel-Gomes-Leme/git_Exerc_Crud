@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/src/java/controller/Controle_prod.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/src/java/command/ICommand.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/src/java/util/ConexaoBD.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/src/java/dao_situacao/SituacaoDao.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/web/crud_acoes/produto/cadastrar_prod.jsp</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/web/crud_acoes/produto/sucesso.jsp</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/src/java/dao_situacao/ISituacaoDao.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/web/crud_acoes/produto/listar_prod.jsp</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/Exerc_CRUD/src/java/command_produto/ListarProdAction.java</file>
+        </group>
+    </open-files>
+</project-private>
